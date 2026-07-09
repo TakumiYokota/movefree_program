@@ -1,0 +1,6 @@
+選んだサイトURL:https://www.bushikaku.net/?utm_media=google&utm_campaign=0&utm_content=16&utm_term=%E6%A0%BC%E5%AE%89%20%E5%A4%9C%E8%A1%8C%E3%83%90%E3%82%B9&pid=google&c=0&af_adset=16&gad_source=1&gad_campaignid=7765399419&gbraid=0AAAAADo901LJetbTIfgoIcNsp_JOE3Kk2&gclid=CjwKCAjw6rfSBhAqEiwA_yocpoZJY-0yfG12yC4AZjBE9z01wb2ctcQ-gVlfVqFhk3QM9Nu9cbTy0RoCwkIQAvD_BwE
+
+推測するCMSの種類:ヘッドレスCMS
+
+推測の根拠:スマホアプリなどがあるため
+　　　　　　色々なサイトの状況に合わせて表示ができている為
